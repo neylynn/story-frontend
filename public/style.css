@@ -1,0 +1,68 @@
+
+  /* Register Area */
+  .register_area {
+    background: #c5e2f8;
+    padding: 120px 50px 200px;
+  }
+  .register_area .register_section {
+    width: 55%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 80px 50px 80px;
+    text-align: center;
+    font-size: 17px;
+    box-shadow: 0 0 5px 1px rgb(0 0 0 / 10%);
+    box-sizing: content-box;
+    background: #ffffff;
+    border-radius: 30px;
+  }
+  .section_ct {
+    width: 55%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+  .register_area .register_section h3 {
+    font-size: 30px;
+    margin: 20px 0 10px 0;
+    font-weight: bold;
+  }
+  .register_area .register_section span {
+    margin-bottom: 30px;
+    display: inline-block;
+  }
+  .register_area .register_section .form-group {
+    margin: 15px 0 0px 0;
+    width: 100%;
+    text-align: left;
+  }
+  .register_area .register_section label {
+    margin: 0px 0px 5px 5px;
+    width: 100%;
+    display: inline-block;
+    font-size: 14px;
+  }
+  .register_area .register_section .form-group input {
+    width: 95%;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid #cfcfcf;
+    padding: 8px;
+    box-sizing: content-box;
+    font-size: 14px;
+    background: #f5f5f5;
+  }
+  .login_btn button {
+    background: rgb(58 121 200);
+    outline: none;
+    border: none;
+    color: #ffffff;
+    padding: 11px 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-size: 14px;
+  }
+  
+  
+  
